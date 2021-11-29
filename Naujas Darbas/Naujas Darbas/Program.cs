@@ -11,9 +11,14 @@ namespace Naujas_Darbas
         static void Main(string[] args)
         {
 
-            double zemesPlotas=0;
+
+            double zemesPlotas = 4 * 3.14 * 6371 * 6371;
+            double izambine = Math.Sqrt(10 * 10 + 15 * 15);
+
+
+            
             double zemesTuris=0;
-            double izambine=0;
+           
             double suma=0;
             double vidurkis=0;
 
