@@ -10,6 +10,9 @@ namespace Naujas_Darbas
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("New");
+
         }
     }
 }
